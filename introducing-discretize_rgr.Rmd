@@ -11,7 +11,7 @@ How do we choose the split points for each segment? The selection can improve or
 ## Example
 
 ```{r, message=FALSE}
-# Available from version 1.7 (2019-02-13), please update it before proceeding:
+# Available from version >1.7 (2019-02-13), please update it before proceeding:
 # install.packages("funModeling") 
 library(funModeling)
 library(dplyr)
@@ -92,6 +92,9 @@ Leave in the comments any doubt ;)
 ---
 
 Thanks for reading `r emo::ji('rocket')`
+
+Find me on [Twitter](https://twitter.com/pabloc_ds) and [Linkedin](https://www.linkedin.com/in/pcasas/).
+
 
 Find me on [Twitter](https://twitter.com/pabloc_ds) and [Linkedin](https://www.linkedin.com/in/pcasas/).
 
